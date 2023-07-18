@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ZOO_VER2</string>
+    <string name="zoo_fx">ZOO-FX</string>
+    <string name="ng_v_t">Động vật</string>
+    <string name="qu_n_l">Quản lí</string>
+    <string name="b_n">Bản đồ</string>
+    <string name="todo">TODO</string>
+    <string name="_0">0</string>
+    <string name="t_ng_s_lo_i_hi_n_c">Tổng số loài hiện có :</string>
+    <string name="t_ng_s_c_th_hi_n_c">Tổng số cá thể hiện có :</string>
+    <string name="phonenumber_label" />
+    <string name="nothing_entered" />
+    <string name="hint_phonenumber" />
+    <string name="enter_your_text" />
+    <string-array name="option_array">
+        <item>Thêm Động Vật</item>
+        <item>Xóa Động Vật</item>
+    </string-array>
+</resources>
